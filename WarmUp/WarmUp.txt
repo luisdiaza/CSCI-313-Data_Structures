@@ -1,0 +1,16 @@
+Mary Jones | Student ID: 903452 | Credits: 6.5 | GPA: 3.569
+[Course Number: 4342 | Number of Credits: 2.5 | Grade: A
+, Course Number: 3311 | Number of Credits: 4.0 | Grade: B+
+]
+
+Joseph Martin | Student ID: 312345 | Credits: 10.0 | GPA: 3.31
+[Course Number: 4598 | Number of Credits: 3.0 | Grade: C
+, Course Number: 1122 | Number of Credits: 3.0 | Grade: A-
+, Course Number: 2467 | Number of Credits: 4.0 | Grade: A
+]
+
+Luis Diaz | Student ID: 12345 | Credits: 6.0 | GPA: 4.0
+[Course Number: 1234 | Number of Credits: 3.0 | Grade: A
+, Course Number: 5678 | Number of Credits: 3.0 | Grade: A
+]
+
